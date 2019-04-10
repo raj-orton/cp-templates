@@ -1,9 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-#define lli long long
-#define pii pair<lli, lli>
-
 class disjoint_set
 {
     public :
