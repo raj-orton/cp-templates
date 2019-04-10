@@ -1,8 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-class disjoint_set
-{
+class disjoint_set {
     public :
         vector<int> r, p;
 
@@ -36,9 +35,10 @@ class disjoint_set
 
 };
 
-int main()
-{
-
+int main() {
+    
+    ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
+    
     
 
     return 0;
