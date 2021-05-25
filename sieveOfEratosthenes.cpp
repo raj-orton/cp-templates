@@ -29,7 +29,7 @@ struct Sieve {
         }
         return primes;
     }
-    bool queryPrime(int x) {
+    bool checkPrime(int x) {
         assert(0 <= x && x <= n);
         return isPrime[x];
     }
